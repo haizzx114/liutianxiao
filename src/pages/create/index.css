@@ -1,0 +1,108 @@
+.create{
+    width: 658px;
+    padding: 30px;
+    border: 1px solid #636363 ;
+    margin: 40px auto;
+}
+.create h3{
+    font-size: 20px;
+    margin: 0;
+    font-size: 24px !important;
+    font-weight: 600 !important;
+    color: #636363;
+    padding-bottom: 3px !important;
+    margin-bottom: 15px !important;
+    text-transform: uppercase;
+}
+.create .wenzi{
+    border: 0;
+    font: inherit;
+    font-size: 100%;
+    margin: 0;
+    padding: 0;
+    vertical-align: baseline;
+    font-size: 10px;
+} 
+.create .div{
+    margin-top: 16px;
+    line-height: 30px;
+}
+.create .span{
+    display: inline-block;
+    width: 95px;
+    height: 30px;
+    line-height: 30px;
+    font-size: 12px;
+}  
+.create input{
+    border: 0 ;
+    height: 30px;
+    line-height: 30px;
+    background-color: #ddd;
+    color: #000;
+    font-size: 10px;
+    width: 180px;
+    padding: 0 10px;
+    border-radius: 4px ;
+}
+.create .s1{
+    margin-left: 20px;
+}
+.create .yanZheng{
+    width: 80px;
+    margin-right: 20px;
+    border: 0 ;
+    height: 30px;
+    line-height: 30px;
+    background-color: #ddd;
+    color: #000;
+    font-size: 10px;
+    padding: 0 10px;
+    border-radius: 4px ;
+    display: inline-block;
+    text-align: center;
+}
+.create .ZCbtn{
+    background-color: #000;
+    color: #fff;
+    border: 0 none;
+    width: 45px;
+    padding-left: 0;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 12px;
+    padding: 0;
+    height: 30px;
+}
+.create .ZCinput{
+    width: 114px;
+    margin-right: 20px;
+}
+.create .xieYi{
+    margin: 0;
+    width: 16px;
+    height: 16px;
+    display: inline-block;
+    margin-right: 20px;
+    vertical-align: middle;
+}
+.create .queRen{
+    font-size: 10px;
+}
+.create .zhuChe{
+    float: right;
+    width: 60px;
+    margin-bottom: 30px;
+}
+.create .zcBox{
+    height: 30px;
+}
+.create .tishi{
+    color: #f00;
+    font-size: 10px;
+    padding-left: 99px; 
+    margin: 0;
+}
+.create .tishi1{
+    padding: 0;
+}

@@ -1,0 +1,49 @@
+.tongzhuang img{
+    width: 100%;
+}
+.tongzhuang {
+    padding: 0 30px;
+}
+.tongzhuang .title{
+    text-align: center;
+    font-size: 0;
+    padding-bottom: 40px;
+}
+
+.tongzhuang .title .h4{
+    font-size: 16px;
+}
+.tongzhuang .title h3{
+    font-size: 35px;
+    margin: 0;
+}
+.tongzhuang ul{
+
+    display: flex;
+}
+
+.tongzhuang .body{
+    padding: 20px;
+}
+.tongzhuang .body span{
+    display: inline-block;
+    width: 576px;
+}
+.tongzhuang .body h3{
+    margin: 0;
+    font-size: 30px;
+}
+.tongzhuang ul .l{
+    flex: 0.53
+}
+.tongzhuang ul li{
+    flex: 0.25;
+    padding: 20px;
+
+}
+.tongzhuang ul li h4{
+    display: inline-block;
+    padding-top: 20px;
+    font-size: 24px;
+}
+

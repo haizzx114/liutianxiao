@@ -1,0 +1,39 @@
+.detail{
+    display: flex;
+    padding: 20px;
+}
+.detail .l{
+    flex:0.5;
+    padding-right: 30px;
+}
+.detail .r{
+    flex:0.5
+}
+.detail .r p{
+    font-family: Century Gothic Std,Arial,sans-serif;
+    font-weight: 400;
+    font-size: 32px;
+    color: #000;
+}
+.detail .r .div {
+    border: 1px solid #aaa;
+    border-left: 0;
+    border-right: 0;
+    padding: 15px 0;
+}
+.detail .r .div .s2{
+    float: right;
+}
+.detail .r button{
+    display: inline-flex;
+    flex-shrink: 1;
+    order: 1;
+    color: #fff;
+    background-color: #000;
+    box-sizing: border-box;
+    cursor: pointer;
+    padding: 15px 125px;
+    border: 0;
+    border-radius: 100px;
+    margin-top: 150px;
+}

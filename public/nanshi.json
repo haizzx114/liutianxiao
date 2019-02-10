@@ -1,0 +1,23 @@
+{
+    "nvshi":[
+        
+            {
+                "src" : "https://www.dior.cn/couture/var/dior/storage/images/14396973/1008-chi-CN/dior%E8%BF%AA%E5%A5%A5%E6%97%B7%E9%87%8E%E7%94%B7%E5%A3%AB%E9%A6%99%E6%B0%B4%E7%B3%BB%E5%88%973.jpg",
+                "name" : "DIOR迪奥旷野男士香水系列",
+                "class":"l"
+            }
+        ,
+            {
+                "src" : "https://www.dior.cn/couture/var/dior/storage/images/15799014/19-chi-CN/%E6%88%90%E8%A1%A33.jpg",
+                "name" : "成衣",
+                "class":"s"
+            }
+        ,
+            {
+                "src" : "https://www.dior.cn/couture/var/dior/storage/images/14663024/57-chi-CN/%E8%BF%90%E5%8A%A8%E9%9E%8B7.jpg",
+                "name" : "运动鞋",
+                "class":"s"
+            }
+        
+    ]
+}

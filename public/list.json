@@ -1,0 +1,90 @@
+{
+    "pages1":[
+        {
+            "jiage" :320 ,
+            "id" : 1 ,
+            "name" : "迪奥烈艳蓝金挚红唇膏",
+            "src" :"https://www.dior.cn/beauty/zh_cn/store/media/wysiwyg/valentinesday2019/pc/block12.jpg"
+        }
+        ,
+        {
+            "jiage" :570 ,
+            "id" : 2 ,
+            "name" : "迪奥凝脂恒久气垫粉底-藤格纹饰钉高订版1",
+            "src" :"https://www.dior.cn/beauty/zh_cn/store/media/wysiwyg/valentinesday2019/pc/block13.jpg"
+        }
+        ,
+        {
+            "jiage" :300 ,
+            "id" : 3 ,
+            "name" : "迪奥烈艳蓝金唇膏",
+            "src" :"https://www.dior.cn/beauty/zh_cn/store/media/wysiwyg/valentinesday2019/pc/block14.jpg"
+        }
+        ,
+        {
+            "jiage" :1600 ,
+            "id" : 4 ,
+            "name" : "红唇诱惑礼盒",
+            "src" :"https://www.dior.cn/beauty/zh_cn/store/media/wysiwyg/valentinesday2019/pc/block15.jpg"
+        }
+        ,
+        {
+            "jiage" :890 ,
+            "id" : 5 ,
+            "name" : "高订底妆 挚爱红唇 表白时尚摩登女郎",
+            "src" :"https://www.dior.cn/beauty/zh_cn/store/media/wysiwyg/valentinesday2019/pc/block16.jpg"
+        }
+        ,
+        {
+            "jiage" :900 ,
+            "id" : 6 ,
+            "name" : "爱情密语礼盒",
+            "src" :"https://www.dior.cn/beauty/zh_cn/store/media/wysiwyg/valentinesday2019/pc/block17.jpg"
+        }
+    ],
+    "pages2":[
+        {
+            "jiage" :700 ,
+            "id" : 7 ,
+            "name" : "花漾梦幻礼盒",
+            "src" :"https://www.dior.cn/beauty/zh_cn/store/media/wysiwyg/valentinesday2019/pc/block19.jpg"
+        }
+        ,
+        {
+            "jiage" :620 ,
+            "id" : 8 ,
+            "name" : "传奇红唇礼盒",
+            "src" :"https://www.dior.cn/beauty/zh_cn/store/media/wysiwyg/valentinesday2019/pc/block20.jpg"
+        }
+            
+        ,
+        {
+            "jiage" :620 ,
+            "id" : 9 ,
+            "name" : "天生一对礼盒",
+            "src" :"https://www.dior.cn/beauty/zh_cn/store/media/wysiwyg/valentinesday2019/pc/block21.jpg"
+        }
+            
+        ,
+        {
+            "jiage" :630 ,
+            "id" : 10 ,
+            "name" : "轻垫精华粉底液（粉盒+粉芯）",
+            "src" :"https://www.dior.cn/beauty/zh_cn/store/media/wysiwyg/valentinesday2019/pc/block22.jpg"
+        }
+        ,
+        {
+            "jiage" :750 ,
+            "id" : 11 ,
+            "name" : "迪奥旷野男士香水 60ml",
+            "src" :"https://www.dior.cn/beauty/zh_cn/store/media/wysiwyg/valentinesday2019/pc/block23.jpg"
+        }
+        ,
+        {
+            "jiage" :680 ,
+            "id" :  12 ,
+            "name" : "迪奥旷野男士淡香水 60ml",
+            "src" :"https://www.dior.cn/beauty/zh_cn/store/media/wysiwyg/valentinesday2019/pc/block24.jpg"
+        }
+    ]
+}

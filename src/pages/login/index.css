@@ -1,0 +1,42 @@
+.denglu{
+    width: 500px;
+    margin: 50px auto;
+    text-align: center;
+    border: 1px solid #555 ;
+    padding-bottom: 30px;
+}
+.denglu .div{
+    margin: 20px;
+}
+.denglu .div1{
+    margin-bottom: 0;
+}
+.denglu .div .s1{
+    display: inline-block;
+    width: 80px;
+}
+.denglu .div .s2{
+    color: #f00;
+    padding-top: 10px;
+    display: inline-block;
+}
+.denglu h3{
+    padding: 60px 0 20px 0;
+    font-size: 30px;
+}
+.denglu h4{
+    color: #f00;
+    font-size: 20px;
+    padding: 10px 0;
+    margin: 0;
+}
+.denglu .div input{
+    border: 1px solid #000
+}
+.denglu form{
+    width: 500px;
+}
+.denglu form .zhuce{
+    width: 80px;
+    margin-bottom: 16px;
+}

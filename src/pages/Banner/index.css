@@ -1,0 +1,13 @@
+.ant-carousel .slick-slide {
+    text-align: center;
+    height: 616px;
+    line-height: 616px;
+    background: #364d79;
+    overflow: hidden;
+  }
+  .banner img{
+    height: 616px;
+  }
+  .banner{
+    padding: 20px 40px;
+  }

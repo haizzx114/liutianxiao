@@ -1,0 +1,20 @@
+{
+    "nvshi":[
+        
+            {
+                "src" : "https://www.dior.cn/couture/var/dior/storage/images/15379708/19-chi-CN/%E5%A9%B4%E5%84%BF4.jpg",
+                "name" : "婴儿",
+                "class":"l"
+            }
+        ,
+            {
+                "src" : "https://www.dior.cn/couture/var/dior/storage/images/14298714/168-chi-CN/%E5%A5%B3%E7%AB%A59.jpg",
+                "name" : "女同"
+            }
+        ,
+            {
+                "src" : "https://www.dior.cn/couture/var/dior/storage/images/14298812/171-chi-CN/%E7%94%B7%E7%AB%A56.jpg",
+                "name" : "男同"
+            }
+    ]
+}

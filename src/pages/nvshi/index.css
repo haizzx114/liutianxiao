@@ -1,0 +1,46 @@
+.nvshi img{
+    width: 100%;
+}
+.nvshi {
+    padding: 0 30px;
+}
+.nvshi .title{
+    text-align: center;
+    padding-top: 80px;
+    font-size: 0;
+}
+
+.nvshi .title .h4{
+    font-size: 16px;
+}
+.nvshi .title h3{
+    font-size: 35px;
+    margin: 0;
+}
+.nvshi ul{
+
+    display: flex;
+}
+
+.nvshi .body{
+    padding: 20px;
+}
+.nvshi .body span{
+    display: inline-block;
+    width: 576px;
+}
+.nvshi .body h3{
+    margin: 0;
+    font-size: 30px;
+}
+
+.nvshi ul li{
+    flex: 0.25;
+    margin: 20px;
+}
+.nvshi ul li h4{
+    display: inline-block;
+    padding-top: 20px;
+    font-size: 24px;
+}
+

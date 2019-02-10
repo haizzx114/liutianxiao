@@ -1,0 +1,70 @@
+.foot{
+    border-top:1px solid #ccc ;
+    height: 394px;
+    display: flex;
+    padding: 30px;
+}
+.foot .div{
+    flex: 0.33;
+    position: relative;
+}
+.foot .div .left{
+    display: inline-block;
+    position: absolute ;
+    width: 325px;
+    height: 87px;
+    top: 50%;
+    left: 50%;
+    margin:-43px -0 0 -123px;
+    text-align: center;
+}
+.foot .div .left .input{
+    display: inline-flex;
+    width: 100%;
+    border: .0625rem solid #000;
+    border-radius: 3.75rem;
+    height: 50px;
+}
+.foot .div .left .input input{
+    padding: .9375rem;
+    font-size: .9375rem;
+    background-color: transparent;
+    margin-left: 10px;
+    color: #000;
+    border: 0;
+    width: 242px;
+}
+.foot .div .left .input .queding{
+    flex: 1;
+    height: 48px;
+    line-height: 48px;
+    min-width: 4.375rem;
+    font-size: .9375rem;
+    flex-shrink: 0;
+    border-radius: 0 3.75rem 3.75rem 0;
+    padding: 0 1.25rem;
+    background-color:#ccc;
+    color: #fff;
+}
+.foot .zhong{
+    text-align: center;
+}
+.foot .zhong ul li {
+    height: 40px;
+    line-height: 40px;
+    text-decoration :underline ;
+    color: #000;
+}
+.foot .zhong .bianhao{
+    padding-top: 30px;
+    font-size: 10px;
+    color: #000;
+}
+.foot .right {
+    text-align: center;
+}
+.foot .right img{
+    display: inline-block;
+    width: 308px;
+    margin-top: 40px;
+}
